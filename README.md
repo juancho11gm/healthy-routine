@@ -1,6 +1,6 @@
-# Software Engineer project
+# Software Engineering - 2019
 
-Healthy-routine was developed using Ionic and Firebase.
+Healthy-routine was developed by using **Ionic** and **Firebase**.
 
 * See your calendar.
 
